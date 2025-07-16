@@ -1,0 +1,26 @@
+body {
+  background-color: #673147;
+  color: #673147;
+}
+
+nav {
+  color: white;
+  display: flex;
+  justify-content: right;
+  gap: 20px;
+  font-size: 20px;
+}
+
+nav a:hover {
+  color: #9f2b68;
+}
+nav {
+  color: #a95c68;
+  display: flex;
+  justify-content: right;
+  gap: 20px;
+  font-size: 20px;
+}
+nav a:hover {
+  color: #9f2b68;
+}
